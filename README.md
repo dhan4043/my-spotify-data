@@ -12,10 +12,10 @@ Visualizations were grouped into four different categories:
 
 Code used to generate aggregate statistics and charts/graphs can be found in the analysis.ipynb notebook. 
 
-![Descriptives](visualizations/descriptives.jpg)
+![Descriptives](visualizations/descriptives.png)
 
-![Engagement](visualizations/engagement.jpg)
+![Engagement](visualizations/engagement.png)
 
-![Inferences](visualizations/inferences.jpg)
+![Inferences](visualizations/inferences.png)
 
-![Sensitive](visualizations/creepiness.jpg)
+![Sensitive](visualizations/creepiness.png)
